@@ -59,6 +59,9 @@ footer  {
     position: fixed;
     bottom: 0vw;
 }
+a:hover {
+    color: #4aaaa5;
+}
 #banner {
      width: 100%;
      background-color: #ffffff;
